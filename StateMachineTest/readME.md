@@ -1,0 +1,1 @@
+Silly state machine on JS, simulating a network of transactions on a Wallapop-alike site.
